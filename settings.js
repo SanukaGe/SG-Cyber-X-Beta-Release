@@ -36,31 +36,39 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
+global.vcardowner = ['94714774737'] //ur owner number
+global.ownername = "☬𝚂𝙰𝙽𝚄𝙺𝙰 𝙶𝙴𝙴𝙽𝙸𝚃𝙷☬" //ur owner name
+global.ytname = "YT: Black Alpha" //ur yt chanel name
+global.socialm = "GitHub: Sanukageenith2007" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['94714774737']
+global.ownertag = '94714774737' //ur tag number
+global.botnumber = '94741957521' //Add your Bot Number For Log
+global.botname = '𝐒𝐆 𝐂𝐘𝐁𝐄𝐑-𝐗' //ur bot name
+global.ig = "https://chat.whatsapp.com/Gbzgrw4zDaVK8eeHpRobIr" //your theme url which will be displayed on whatsapp
+global.myweb = "https://youtu.be/uzMbW5LE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
+global.linkz = 'https://chat.whatsapp.com/HOYne1uG2jHK0UMGb0WBFD'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
+global.packname = "SG Cyber-X User Bot" //ur sticker watermark packname
 global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.footer = "𝐂𝐘𝐁𝐄𝐑-𝐗 𝐁𝐘 𝐒𝐀𝐍𝐔𝐊𝐀 𝐆𝐄𝐄𝐍𝐈𝐓𝐇"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "❖---𝐒𝐆 𝐂𝐘𝐁𝐄𝐑-𝐗---❖
+
+𝙾𝚆𝙽𝙴𝚁 ↝ 𝚂𝙰𝙽𝚄𝙺𝙰 𝙶𝙴𝙴𝙽𝙸𝚃𝙷
+𝙽𝚄𝙼𝙱𝙴𝚁 ↝ +94714774737
+𝚁𝙴𝚂𝙿𝙾𝙽𝙳 𝚂𝙿𝙴𝙴𝙳 ↝ 347𝚖𝚜
+𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 ↝ 103𝚖𝚋/257942𝚖𝚋
+𝚅𝙴𝚁𝚂𝙸𝙾𝙽 ↝ 𝙱𝙴𝚃𝙰 ᵥ3
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝙳 𝚃𝙴𝙰𝙼 ↝𝙳𝙰𝚁𝙺 𝙰𝙻𝙿𝙷𝙰 
+𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 ↝ 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙾𝚆𝙽𝙴𝚁 𝚃𝙾 𝙶𝙴𝚃 𝙸𝚃"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +78,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94714774737'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
